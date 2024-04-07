@@ -1,0 +1,2 @@
+# AutoGeaconC2
+AutoGeaconC2: 一键读取Profile自动化生成geacon实现跨平台上线CobaltStrike

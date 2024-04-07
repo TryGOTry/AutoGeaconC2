@@ -3,7 +3,7 @@
 
 为了方便脚本小子的工具：一键读取Profile自动化生成geacon实现跨平台上线CobaltStrike
 
-Ps：为了增加分析成本，本项目不准备开源。
+Ps：为了增加分析成本，本项目不准备开源，目前仅支持Linux amd64上线！
 
 已适配大量profile配置，如遇到问题，请提交issues！
 

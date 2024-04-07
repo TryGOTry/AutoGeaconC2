@@ -8,7 +8,9 @@ Ps：为了增加分析成本，本项目不准备开源，目前仅支持Linux 
 已适配大量profile配置，如遇到问题，请提交issues！
 
 已适配猫猫cs,以及cdn上线.
-# How To Use
+
+# 生成的文件可以尝试使用upx压缩一下。
+## How To Use
 1.下载releases中的AutoGeaconC2.cna，然后在cs客户端中导入cna
 
 2.在服务端下载releases中根据系统下载AutoGeaconC2

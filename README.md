@@ -1,3 +1,4 @@
+![AutoGeaconC2](https://socialify.git.ci/TryGOTry/AutoGeaconC2/image?language=1&owner=1&name=1&stargazers=1&theme=Light)
 # AutoGeaconC2
 
 为了方便脚本小子的工具：一键读取Profile自动化生成geacon实现跨平台上线CobaltStrike

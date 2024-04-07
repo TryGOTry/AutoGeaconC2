@@ -8,6 +8,18 @@ Ps：为了增加分析成本，本项目不准备开源。
 已适配大量profile配置，如遇到问题，请提交issues！
 
 已适配猫猫cs,以及cdn上线.
+# How To Use
+1.下载releases中的AutoGeaconC2.cna，然后在cs客户端中导入cna
+
+2.在服务端下载releases中根据系统下载AutoGeaconC2
+
+3.下载releases中的BeaconTool.jar用于生成rsa的key。 java -jar BeaconTool.jar -i .cobaltstrike.beacon_keys
+
+4.把上面生成的rsa的key填入AutoGeaconC2中生成Geacon客户端
+```
+AutoGeaconC2.exe -rsa "xxx" -profile c.profile -u https://127.0.0.1
+```
+
 ## CobaltStrike Commands
 已实现的功能如下
 ```shell
